@@ -1,0 +1,1 @@
+Faca um algoritmo solicitar um deternado quantidades de alunos que peça nome e nota, e faca a media 
